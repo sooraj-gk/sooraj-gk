@@ -1,7 +1,9 @@
 ### Hi there, I'm Sooraj 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/@SWings16969796?color=1DA1F2&logo=twitter&style=for-the-badge)]
-
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/@SWings16969796?color=1DA1F2&logo=twitter&style=for-the-badge)]
+ -->
+ [![Twitter Follow]([![Twitter Follow](https://img.shields.io/twitter/follow/@SWings16969796?color=1DA1F2&logo=twitter&style=for-the-badge)])]
+ 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
